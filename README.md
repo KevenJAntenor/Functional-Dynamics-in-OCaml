@@ -1,3 +1,5 @@
+# OCaml Collatz Explorer
+
 This project, **"OCaml Collatz Explorer,"** is a functional programming exploration using OCaml to implement and analyze mathematical algorithms, with a primary focus on the Collatz conjecture. The project includes a variety of recursive functions to compute and manipulate sequences, count specific occurrences within lists, and apply transformations, demonstrating the elegance and power of functional paradigms.
 
 Key components of the project include:
