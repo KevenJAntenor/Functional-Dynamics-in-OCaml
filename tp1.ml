@@ -1,9 +1,3 @@
-(* Cours      : Programmation fonctionnelle et logique *)
-(* Sigle      : INF6120 *)
-(* Groupe     : 020 *)
-(* Session    : Été 2024 *)
-(* Auteur(s)  : <Keven Jude Anténor> (<ANTK08129003>) *)
-
 let rec collatz (iterations : int) (n : int) : int =
   if iterations = 0 || n > 0  then
     n
