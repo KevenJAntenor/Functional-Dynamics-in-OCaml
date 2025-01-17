@@ -1,7 +1,7 @@
 # OCaml Functional Programming Utils
 
 ## Description
-This project implements a collection of functional programming utilities in OCaml, featuring the Collatz conjecture and various list manipulation functions. It was developed as part of the Functional and Logic Programming course (INF6120) at UQAM.
+This project implements a collection of functional programming utilities in OCaml, featuring the Collatz conjecture and various list manipulation functions. It was developed as part of the Functional and Logic Programming course.  
 
 ### Key Features
 - **Collatz Sequence Implementation**: 
