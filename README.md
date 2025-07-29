@@ -3,12 +3,12 @@
 ## Description
 This project implements a collection of functional programming utilities in OCaml, featuring the Collatz conjecture and various list manipulation functions. It was developed as part of the Functional and Logic Programming course.  
 
-### Key Features
+### ✨ Key Features
 - **Collatz Sequence Implementation**: 
   - `collatz`: Applies the Collatz sequence for a specified number of iterations
   - `collatz3`: Recursively applies the Collatz sequence until reaching 1, 2, or 4
 
-- **List Manipulation Functions**:
+- ** List Manipulation Functions**:
   - `between`: Generates a list of integers within a specified range
   - `count`: Counts occurrences of elements in a list
   - `map`: Custom implementation of the map function
