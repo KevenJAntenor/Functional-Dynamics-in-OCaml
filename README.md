@@ -25,9 +25,9 @@ This collection serves as both an educational resource for understanding functio
 
 ## Installation
 
-### Prerequisites
-- OCaml (version 4.x or higher)
-- OPAM (OCaml Package Manager)
+### ✅ Prerequisites
+- 🐫 OCaml (version 4.x or higher)
+- 📦 OPAM (OCaml Package Manager)
 
 ### Setup
 1. Clone the repository:
