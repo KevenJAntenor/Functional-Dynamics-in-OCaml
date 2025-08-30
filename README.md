@@ -14,7 +14,7 @@ This project implements a collection of functional programming utilities in OCam
   - `map`: Custom implementation of the map function
   - `divide`: Calculates proportions of elements in classified lists
 
-## Usage
+## ▶️ Usage
 The module provides essential functional programming tools that can be used for:
 - Number sequence analysis
 - List processing and transformation
