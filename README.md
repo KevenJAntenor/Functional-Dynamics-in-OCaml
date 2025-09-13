@@ -29,7 +29,7 @@ This collection serves as both an educational resource for understanding functio
 - 🐫 OCaml (version 4.x or higher)
 - 📦 OPAM (OCaml Package Manager)
 
-### Setup
+### 🛠️ Setup
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ocaml-functional-utils.git
