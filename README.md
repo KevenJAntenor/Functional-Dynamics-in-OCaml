@@ -6,7 +6,7 @@ This project implements a collection of functional programming utilities in OCam
 ### ✨ Key Features
 - **Collatz Sequence Implementation**: 
   - `collatz`: Applies the Collatz sequence for a specified number of iterations
-  - `collatz3`: Recursively applies the Collatz sequence until reaching 1, 2, or 4
+  - `collatz3`: Recursively applies the Collatz sequence until reaching 1, 2, or 
 
 - ** List Manipulation Functions**:
   - `between`: Generates a list of integers within a specified range
